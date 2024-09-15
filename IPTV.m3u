@@ -1,0 +1,75 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/01UmXRe.png" group-title="Religious",6. BBS Buddhist Broadcasting (1080p)
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sOoS7RQ.png" group-title="Religious",9. BTN TV (1080p)
+https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JiSfEBv.png" group-title="Shop",13. CJ OnStyle (540p)
+https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OYmOL20.png" group-title="Shop",14. CJ OnStyle Plus (540p)
+https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z3L8uNB.png" group-title="Religious",15. CTS기독교TV (720p)
+https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/512px-EBS_1TV_Logo.svg.png" group-title="Education",16. EBS 1 (400p) [Not 24/7]
+https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/EBS_2TV_Logo.svg/512px-EBS_2TV_Logo.svg.png" group-title="Education",17. EBS 2 (400p) [Not 24/7]
+https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5wLJzb0.png" group-title="Education",18. EBS E (400p) [Not 24/7]
+https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/62oo8Bx.png" group-title="Kids",19. EBS kids (400p) [Not 24/7]
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aCeuhon.png" group-title="Education",20. EBS+ 1 (400p)
+https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pllIMGi.png" group-title="Education",21. EBS+ 2 (400p)
+https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YL3rpd7.png" group-title="Shop",27. Gongyoung Shopping (720p)
+https://etv.publichs.com/live5.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ETPQwui.png" group-title="Shop",29. GS My Shop (1080p)
+https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F7QDbEy.png" group-title="Shop",30. GS Shop (1080p)
+https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ey7Htm8.png" group-title="Music",31. GugakTV 국악방송 (1080p)
+https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f1tz5fg.png" group-title="News",32. Gugbang TV (1080p) [Not 24/7]
+http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IcexRXG.png" group-title="Shop",33. Home & Shopping (720p)
+https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NJpECmq.png" group-title="Shop",34. Hyundai Home Shopping (720p)
+https://livejj.hyundaihmall.com:8443/live/ngrp:hmall.stream_pc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DoNOuZE.png" group-title="Shop",35. Hyundai Home Shopping Plus (720p)
+https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" group-title="Undefined",38. KBS 1TV [Not 24/7]
+http://mytv.dothome.co.kr/ch/public/1.php
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png" group-title="Undefined",39. KBS 2TV [Not 24/7]
+http://mytv.dothome.co.kr/ch/public/3.php
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/KBS_DRAMA.svg/512px-KBS_DRAMA.svg.png" group-title="Series",40. KBS Drama (480p)
+http://mytv.dothome.co.kr/ch/catv/2.php
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KBS_JOY.svg/512px-KBS_JOY.svg.png" group-title="Undefined",41. KBS Joy (480p)
+http://mytv.dothome.co.kr/ch/catv/3.php
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/KBS_kids.svg/512px-KBS_kids.svg.png" group-title="Kids",42. KBS Kids (480p)
+http://mytv.dothome.co.kr/ch/catv/6.php
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/KBS_Life.svg/512px-KBS_Life.svg.png" group-title="Undefined",43. KBS Life (480p)
+http://mytv.dothome.co.kr/ch/catv/5.php
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/KBS_Story.svg/512px-KBS_Story.svg.png" group-title="Undefined",45. KBS Story (480p)
+http://mytv.dothome.co.kr/ch/catv/4.php
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WkrLDJW/Screenshot-20230714-135036-removebg-preview.png" group-title="Legislative",49. Korea TV (1080p)
+https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",52. Lotte Home Shopping (720p)
+https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bXe7tYE.png" group-title="Shop",53. Lotte OneTV (720p)
+https://onetvhlslive.lotteimall.com/lotteonetvlive/lotteonetvlive.mp4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HCbvAiM.png" group-title="General",60. MBC Daejeon (대전 MBC) (720p) [Not 24/7]
+https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wmGJgYh.png" group-title="General",64. MBC Gwangju (광주 MBC) (1080p) [Geo-blocked] [Not 24/7]
+https://media.kjmbc.co.kr/hls/live/stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q9xsDQo.png" group-title="Shop",75. NS Home Shopping (720p)
+https://livestream.nsmall.com/IPHONE/nsmallMobile.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7KmXNci.png" group-title="Shop",76. NS Shop Plus (720p)
+https://shoppstream.nsmall.com/IPHONE/mobile.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oWB3ApR.png" group-title="General",77. OBS Gyeongin TV (OBS경인TV) (540p) [Not 24/7]
+https://vod.obs.co.kr:444/live/obsstream1/tv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gaBq1Lz.png" group-title="General",88. SBS KNN (1080p) [Not 24/7]
+https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hq3yjqA.png" group-title="Shop",94. Shinsegae Shopping TV (720p)
+https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hfXjVJd.png" group-title="Shop",105. W Shopping (720p)
+https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8
